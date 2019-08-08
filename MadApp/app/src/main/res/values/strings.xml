@@ -11,12 +11,9 @@
     <string name="register">Register</string>
     <string name="subject">Subject</string>
     <string name="login">Login</string>
-    <string name="register">Register</string>
-    <string name="todo">TODO</string>
+    <string name="register1">Register</string>
     <string name="institute">Institute</string>
     <string name="teacher">Teacher</string>
     <string name="student">Student</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
     <string name="phone_number">Phone_number</string>
 </resources>
